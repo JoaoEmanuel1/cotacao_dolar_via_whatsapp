@@ -1,0 +1,1 @@
+# cotacao_dolar_via_whatsapp
